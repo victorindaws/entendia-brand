@@ -163,4 +163,4 @@ entendia-brand-v2/
 
 ---
 
-*EntendIA © 2025*
+*EntendIA © 2026*
